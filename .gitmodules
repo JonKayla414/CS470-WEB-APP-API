@@ -1,0 +1,6 @@
+[submodule "lafs-api"]
+	path = lafs-api
+	url = git@github.com:JonKayla414/lafs-api.git
+[submodule "CS-470"]
+	path = CS-470
+	url = git@github.com:JonKayla414/CS-470.git
